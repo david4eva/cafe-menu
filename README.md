@@ -10,7 +10,7 @@ Welcome to our cozy cafe! Explore our delightful menu featuring a variety of cof
   - [Getting Started](#getting-started)
 
 ## How to Order
-1. Order from our menu by visiting – [David.s Cafe Menu](davids-cafe.netlify.app)
+1. Order from our menu by visiting – [David's Cafe Menu](https://davids-cafe.netlify.app).
 3. Explore the menu and choose your favorite items.
 4. Place your order with our friendly staff.
 
