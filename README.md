@@ -16,7 +16,7 @@ Welcome to our cozy cafe! Explore our delightful menu featuring a variety of cof
 
 ## Built With
 <ul>
-    <li>HTML</li☕️
+    <li>HTML</li>
     <li>CSS </li>
     <li>Javascript.</li>
 </ul>
